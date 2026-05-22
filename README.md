@@ -58,7 +58,7 @@ The logo touch sensor only exists on the Micro:bit V2, so the splits move needs 
 
 Every joint has a numbered channel on the driver board. Use this map when assembling and when plugging servos in. Plugging a servo into the wrong channel will move the wrong joint, so double check against this diagram before powering on.
 
-![AC-1 servo map](<a href="AC-1_Servo_Guide.pdf">View the PDF Document</a>)
+<a href="AC-1_Servo_Guide.pdf">View AC-1 Servo Map</a>
 
 | Channel | Joint |
 |---------|-------|
