@@ -4,7 +4,7 @@
 
 The AC-1 is a 16 servo humanoid robot kit. Students assemble it from scratch, then bring it to life with a Micro:bit. No coding required to get moving: flash the program, press a button, and the robot responds. When students are ready to go further, the full code is open to explore and change.
 
-![AC-1 humanoid robot](Andbotics-Microbit/ac-1_wave.gif)
+![AC-1 humanoid robot](<img width="800" height="1422" alt="ac-1_wave" src="https://github.com/user-attachments/assets/8a01b9e8-73bc-4f11-9310-ca6845f2c82b" />)
 
 ---
 
