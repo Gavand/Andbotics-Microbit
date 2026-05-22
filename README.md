@@ -4,7 +4,7 @@
 
 The AC-1 is a 16 servo humanoid robot kit. Students assemble it from scratch, then bring it to life with a Micro:bit. No coding required to get moving: flash the program, press a button, and the robot responds. When students are ready to go further, the full code is open to explore and change.
 
-![AC-1 humanoid robot](ac1_wave.gif)
+![AC-1 humanoid robot](Andbotics-Microbit/ac1_wave.gif)
 
 ---
 
@@ -55,7 +55,7 @@ The logo touch sensor only exists on the Micro:bit V2, so the splits move needs 
 
 Every joint has a numbered channel on the driver board. Use this map when assembling and when plugging servos in. Plugging a servo into the wrong channel will move the wrong joint, so double check against this diagram before powering on.
 
-![AC-1 servo map](AC-1_Servo_Guide.pdf)
+![AC-1 servo map](Andbotics-Microbit/AC-1_Servo_Guide.pdf)
 
 | Channel | Joint |
 |---------|-------|
